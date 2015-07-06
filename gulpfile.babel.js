@@ -1,7 +1,6 @@
 import gulp from 'gulp';
 import haste from 'gulp-haste';
 import watch from 'gulp-watch';
-import plumber from 'plumber';
 
 gulp.task('build', () => {
   'use strict';
